@@ -1,3 +1,3 @@
 # DDU-PilotProjekt
 DDU Pilot Projekt
-Hej med dig
+Download "DDU" og åben det som et Unity Projekt
